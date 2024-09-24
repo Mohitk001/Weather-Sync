@@ -1,8 +1,8 @@
-Here’s the updated **README** content for your GitHub project, **Weather Sync**, with a focus on the UI/UX aspects:
 
+![Weather Wave (1)](https://github.com/user-attachments/assets/7f228ab9-00e7-41c9-8875-7c72aa24282c)
 ---
 
-# Weather Sync ☀️🌧️
+# Weather Sync
 
 [Live Demo](https://mohitk001.github.io/Weather-Sync/)
 
