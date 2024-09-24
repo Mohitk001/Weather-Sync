@@ -4,7 +4,7 @@ Here’s the updated **README** content for your GitHub project, **Weather Sync*
 
 # Weather Sync ☀️🌧️
 
-[Live Demo](https://ananyamohanty027.github.io/WeatherWave/)
+[Live Demo](https://mohitk001.github.io/Weather-Sync/)
 
 **Weather Sync** is a sleek, modern weather application that combines advanced features with an intuitive, visually captivating user interface. It’s not just about checking the weather; it’s about delivering a seamless user experience through engaging design and unique interactions. 
 
@@ -43,7 +43,7 @@ Unlike traditional weather apps, **Weather Sync** places a huge emphasis on both
 
 ## How to Use
 
-1. Open the live [Weather Sync app](https://ananyamohanty027.github.io/WeatherWave/).
+1. Open the live [Weather Sync app](https://mohitk001.github.io/Weather-Sync/).
 2. Type or **speak** the name of the city.
 3. Instantly view the current weather with a corresponding background video and weather icons.
 4. The UI adapts based on the conditions, providing a dynamic and engaging experience.
