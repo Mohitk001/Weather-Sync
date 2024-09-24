@@ -1,5 +1,6 @@
 
-![Weather Wave (1)](https://github.com/user-attachments/assets/7f228ab9-00e7-41c9-8875-7c72aa24282c)
+
+![Logo](https://github.com/user-attachments/assets/7f228ab9-00e7-41c9-8875-7c72aa24282c)
 ---
 
 # Weather Sync
